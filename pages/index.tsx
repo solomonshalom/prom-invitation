@@ -65,7 +65,7 @@ const IndexPage = () => {
           </div>
         </div>
         <span className={`absolute bottom-0 right-0 p-2 text-sm text-gray-800/40`}>
-          Made with the time I was supposed to be spending studying for Physics final :D (Pls don&apos;t kill me)
+          Made with the time I was supposed to be spending studying for final :D (Pls don&apos;t kill me)
         </span>
       </div>
     </div>
